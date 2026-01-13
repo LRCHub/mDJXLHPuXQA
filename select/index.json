@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "流行アンジェリーナ",
+  "base_artist": "jon-YAKITORY",
+  "createdAt": "2026-01-13T13:11:53.281655Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流行アンジェリーナ (feat. 初音ミク)",
+      "artist": "jon-YAKITORY",
+      "has_synced": false,
+      "path": "select/pl_01_流行アンジェリーナ_(feat._初音ミク)_jon-YAKITORY.txt"
+    }
+  ]
+}
